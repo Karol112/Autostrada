@@ -1,5 +1,5 @@
 package autostrada;
 
 public enum Silnik {
-    SPALINOWY, ELEKTRYCZNY;
+    SPALINOWY, ELEKTRYCZNY
 }
